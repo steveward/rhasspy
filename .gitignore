@@ -18,3 +18,9 @@ web/
 download/
 
 *.log
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+coverage.xml
